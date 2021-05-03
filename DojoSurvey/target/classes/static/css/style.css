@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+.survey{
+	border-style: solid 2px;
+	display:block;
+}
+.subtxt{
+	display:inline-block;
+	text-align:left;
+}
